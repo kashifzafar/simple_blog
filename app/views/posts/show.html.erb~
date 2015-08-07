@@ -1,8 +1,9 @@
 <p id="notice"><%= notice %></p>
 
 
-
+<div class="jumbotron">
 <h1>Showing Post</h1>
+</div>
 <p>
   <strong>Title:</strong>
   <%= @post.title %>
